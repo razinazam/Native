@@ -19,7 +19,7 @@
     "expo-permissions": "^6.0.0",
     "express": "^4.17.1",
     "material": "^0.3.13",
-    "mongoose": "^5.6.8",
+    "mongoose": "^5.7.5",
     "path": "^0.12.7",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
